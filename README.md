@@ -1,0 +1,2 @@
+# eegsynthexp
+experiment with eegsynth
